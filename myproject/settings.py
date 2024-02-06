@@ -17,7 +17,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 
 CSRF_TRUSTED_ORIGINS = [
     'https://notes-django-afxe.onrender.com',
-    'https://notes.spandanpokhrel.com.np',
+    'https://noteit.spandanpokhrel.com.np',
 ]
 
 # Quick-start development settings - unsuitable for production
